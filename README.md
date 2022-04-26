@@ -40,12 +40,11 @@ As an extra step, we wrote a few lines of code to format the table and color cod
 
 <img width="432" alt="Screen Shot 2022-04-26 at 9 17 51 AM" src="https://user-images.githubusercontent.com/103055666/165308681-0b3d23ae-fc6d-4a43-8b28-28f2060c2668.png">
 
-The final results we returned for the year 2017 can be seen in the table below:
+The final results we returned can be seen in the tables below:
 #### 2017
 <img width="263" alt="Screen Shot 2022-04-25 at 6 49 29 PM" src="https://user-images.githubusercontent.com/103055666/165187138-69c59516-b699-4956-928f-f822889c4dd1.png">
 
 
-The results we returned for the year 2018 can be seen in the table below:
 #### 2018
 <img width="252" alt="Screen Shot 2022-04-25 at 6 49 54 PM" src="https://user-images.githubusercontent.com/103055666/165187196-8a621497-c748-4a27-845e-26336855191a.png">
 
